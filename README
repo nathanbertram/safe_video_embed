@@ -1,4 +1,9 @@
+Usage:
+1. Add migration
+    add_column :examples, :video_embed_url, :string
+2. Use helper for associated video_embed_url column safe_video_embed(:width => '800', :height => '600')
+
+
 # TODO:
-#   1. Document Purpose / Usage / How to Contribute
-#   2. Test
-#   3. Gemify
+#   1. Test
+#   2. Gemify
