@@ -1,0 +1,8 @@
+MIT-LICENSE
+README
+Rakefile
+init.rb
+lib/action_view/helpers/safe_video_embed.rb
+lib/init.rb
+lib/safe_video_embed.rb
+Manifest
